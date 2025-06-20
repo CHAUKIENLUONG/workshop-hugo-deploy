@@ -7,5 +7,5 @@ pre = "<b>1. </b>"
 +++
 
 ![logo](../../images/1/logo.jpeg)
-demo Hugo Website Deployment with AWS Amplify
+demo update something version 1 Hugo Website Deployment with AWS Amplify
 
